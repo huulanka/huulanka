@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huulanka
 - 👀 I’m interested in java, webdev, sql, security, python
-- 🌱 I’m currently learning spring-boot and vaadin
+- 🌱 I’m currently learning python and r
 - 💞️ I’m looking to collaborate on some projects i like
 - 📫 Just leave me a message or connect via twitter
 
