@@ -4,7 +4,7 @@
 - 👨‍💻 IT Consultant diving into the world of data @ Reply
 - 🌐 Python, SAP & AI enthusiast 🐍🤖
 - 💡 Skilled in data visualization and engineering
-- 📚 Studied Business Informatics @ University of Hagen (Fernuniversität)
+- 📚 Studied Business Informatics @ University of Hagen (FernUniversität)
 
 ## Current private hobby projects
 - 📊 Working on a data analysis project of political content in Germany on Twitter (Python, SQLAlchemy, PostgreSQL)
