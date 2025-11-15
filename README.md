@@ -1,50 +1,96 @@
 # Hi there! 👋 I'm Andreas Bauer
 
 ## About Me
-- 👨‍💻 IT Consultant diving into the world of data @ Reply
-- 🌐 Python, SAP & AI enthusiast 🐍🤖
-- 💡 Skilled in data visualization and engineering
-- 📚 Studied Business Informatics @ University of Hagen (FernUniversität)
+- 👨‍💻 Senior Fullstack Developer @ Reply (Tech Lead on multiple SaaS projects)
+- 🧠 Focused on building scalable backend & fullstack architectures
+- ⚙️ Passion for clean code, API design & cloud-native engineering
+- 🌍 Looking for remote-first backend / fullstack roles in modern SaaS companies
+- 🎓 B.Sc. Business Informatics @ FernUniversität in Hagen
 
-## Current private hobby projects
-- 📊 Working on a data analysis project of political content in Germany on Twitter (Python, SQLAlchemy, PostgreSQL)
-- 🌱 Building an app called "GrowGenius" for managing garden plants and monitoring their life-cycle (Python, Django, MQTT, Bootstrap)
-
-## Skills
-### Data Analytics
-- 📊 MS-Excel, MS-Access, SQL (PostgresSQL, MySQL)
-- 📈 Tableau, PowerBI, SAP Analytics Cloud
-- 🐍 Python: pandas, numpy, jupyter, SQLAlchemy, Django, openpyxl
-- 📊 R: tidyverse, dplyr, ggplot2, R-Studio
-
-### SAP
-- 🔄 SAP BW/4HANA, SAP Analytics Cloud
-- 🔄 ECC 6.0: Key-User QM, Extended knowledge in MM, PP, and SD
-
-### Toolbox
-- 🧰 Excel, SQL, Python, Powerpoint
-- 📊 Tableau, PowerBI, Signavio
-- 🔄 Confluence, SAP ERP
-- 💻 Coding: Python, Java (CoreNLP, JUnit)
-- 🛠️ Misc: Git, GitHub, Unix, LATEX, HTML5/CSS, Wordpress, Microsoft Azure, Docker, LLM
+## What I Do
+- ⚡ Fullstack & Backend Development (Node.js, TypeScript, Express, Next.js, React)
+- 🔌 API Design (REST/OData), microservices, authentication (JWT, XSUAA), cloud deployments
+- ☁️ SAP CAP & UI5 engineering for enterprise-grade SaaS
+- 🚀 CI/CD ownership: GitHub Actions, Bitbucket Pipelines, Docker, Nginx, Render.io
+- 🗄️ Databases: MongoDB, PostgreSQL, SAP HANA
+- 🛠️ End-to-end delivery in agile teams with strong engineering culture
 
 ---
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+## Current Private Projects
+- 🍽️ **GrindNDine.app** — modern recipe management app
+  *Next.js/React frontend, Node.js/Express backend, Firebase Auth + Storage, MongoDB, CI/CD on Render + GitHub Actions*
+
+- 🔧 Experimenting with microservices, clean backend patterns, and improving my cloud deployment workflows
+
+---
+
+## Skills
+
+### Backend & Fullstack
+- ⚙️ **Node.js, TypeScript, Express**
+- 🔌 **REST APIs**, API Design, Middleware, JWT Auth
+- 🧰 **Microservices**, CAPire, SAP BTP, SAP HANA
+- 🌐 **Next.js, React, Tailwind**
+- 🗄️ Databases: **MongoDB, PostgreSQL, HANA**
+- 🐳 Docker, Nginx, GitHub Actions, Bitbucket Pipelines
+
+### Frontend
+- ⚛️ **React**, **Next.js**, **Tailwind CSS**
+- 🎨 UI5, Fiori Elements
+
+### DevOps & Cloud
+- ☁️ Docker, GitHub Actions, Bitbucket Pipelines  
+- 🌀 SAP BTP, Render.io, CI/CD & deployment automation
+
+### Toolbox
+- 💻 JS/TS, Node, Express, React, API Design  
+- 🛠️ Git, Linux, Nginx  
+- 🧪 Clean Code, Architecture, Testing  
+- 📊 SQL, Python (pandas, analysis), ABAP (legacy, selective use)
+
+---
+
+## Icons & Tech Stack
+<p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" width="40" height="40"/>
+</p>
+
+---
 
 ## Learning Goals
-- 🚀 Currently learning Django, PySpark, and SAP Datasphere
+- 🧪 Advanced backend architecture patterns
+- ⚡ Improving microservices, distributed systems & event-driven design
+- ☁️ Cloud deployments, infra automation & scaling strategies
 
-## Interests and Hobbies
-- 🌱 Gardening vegetables
-- ☕ Coffee enthusiast and home barista
-- 💰 Interest in finance
-- ✈️ Passionate about traveling
+---
+
+## Interests & Hobbies
+- 🍕 Neapolitan pizza & home barista life
+- 🌱 Gardening & microgreens
+- ✈️ Traveling & exploring new cultures
+- 💻 Building small SaaS tools just for fun
+
+---
+
+## Github Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huulanka&" alt="huulanka" /></p>
+
+---
 
 ## Connect with Me
-- 🌐 [lernjava.de](https://lernjava.de)
-- 💼 [LinkedIn](https://www.linkedin.com/in/andreas-simon-bauer/)
-
-<!---
-huulanka/huulanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 https://GrindNDine.app  
+- 🌐 https://lernjava.de  
+- 💼 https://www.linkedin.com/in/andreas-simon-bauer/  
+- 🐙 https://github.com/huulanka  
